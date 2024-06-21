@@ -1,0 +1,101 @@
+ID,Accuracy,RT,PHQ9,CESD,DASS,PRMQ1,Confidence,JOL,N300,PP,Age,Sex,Gender,Race,Ethnicity,Handedness
+1.0,97.0,289.0,10.0,50.0,,15.0,85.0,63.0,351.0,132.0,18.0,Male,Female,Asian,Hispanic or Latino,Right
+2.0,89.0,344.0,6.0,,11.0,13.0,50.0,95.0,311.0,121.0,27.0,,Non-binary,Black or African American,Hispanic or Latino,Ambidextrous
+3.0,74.0,278.0,,45.0,25.0,13.0,81.0,82.0,223.0,127.0,26.0,Female,Male,Other,Hispanic or Latino,Ambidextrous
+4.0,94.0,349.0,14.0,31.0,4.0,13.0,64.0,76.0,262.0,111.0,42.0,,Other,Black or African American,Hispanic or Latino,Right
+5.0,84.0,269.0,4.0,49.0,15.0,19.0,85.0,75.0,326.0,116.0,31.0,Female,Other,Other,Hispanic or Latino,Left
+6.0,82.0,,7.0,4.0,35.0,,78.0,85.0,306.0,113.0,,Other,,Other,Hispanic or Latino,Left
+7.0,,328.0,18.0,4.0,15.0,15.0,74.0,53.0,360.0,168.0,58.0,Male,Female,White,Not Hispanic or Latino,Left
+8.0,89.0,288.0,21.0,45.0,6.0,14.0,,79.0,250.0,188.0,29.0,,Female,White,Not Hispanic or Latino,Left
+9.0,91.0,370.0,14.0,8.0,40.0,17.0,54.0,70.0,,126.0,21.0,Female,Other,White,Not Hispanic or Latino,Right
+10.0,80.0,315.0,0.0,17.0,16.0,11.0,94.0,66.0,229.0,175.0,18.0,Female,Non-binary,Black or African American,Not Hispanic or Latino,
+11.0,99.0,306.0,25.0,43.0,41.0,10.0,52.0,79.0,249.0,182.0,58.0,Male,Non-binary,Black or African American,Not Hispanic or Latino,Left
+12.0,95.0,394.0,0.0,14.0,41.0,11.0,,79.0,368.0,146.0,57.0,Other,Female,Black or African American,Hispanic or Latino,Left
+13.0,85.0,398.0,0.0,12.0,38.0,19.0,89.0,,,,33.0,,Other,Other,Hispanic or Latino,Ambidextrous
+14.0,96.0,252.0,8.0,,8.0,14.0,75.0,65.0,212.0,135.0,36.0,Female,Non-binary,Black or African American,Hispanic or Latino,Left
+15.0,98.0,250.0,21.0,53.0,32.0,,66.0,76.0,317.0,108.0,42.0,Male,Other,Other,Hispanic or Latino,Ambidextrous
+16.0,79.0,,20.0,2.0,,19.0,97.0,77.0,286.0,181.0,46.0,Male,,Black or African American,Hispanic or Latino,Left
+17.0,72.0,253.0,0.0,18.0,24.0,18.0,95.0,51.0,346.0,131.0,44.0,Female,Non-binary,Other,Hispanic or Latino,Ambidextrous
+18.0,79.0,348.0,2.0,4.0,0.0,,58.0,,296.0,102.0,35.0,Female,Male,White,Hispanic or Latino,Left
+19.0,73.0,395.0,6.0,53.0,29.0,19.0,82.0,78.0,264.0,138.0,35.0,Male,Male,Other,Hispanic or Latino,Right
+20.0,74.0,284.0,12.0,19.0,11.0,15.0,84.0,64.0,368.0,107.0,52.0,Female,Other,Other,,
+21.0,73.0,377.0,3.0,,3.0,13.0,68.0,55.0,326.0,126.0,32.0,Other,Other,Other,Not Hispanic or Latino,Ambidextrous
+22.0,80.0,331.0,9.0,58.0,11.0,16.0,98.0,80.0,288.0,,54.0,Male,Non-binary,,Not Hispanic or Latino,Ambidextrous
+23.0,,293.0,24.0,48.0,6.0,,99.0,71.0,366.0,117.0,23.0,Female,Male,Asian,Not Hispanic or Latino,Right
+24.0,99.0,385.0,13.0,5.0,15.0,12.0,,81.0,226.0,,47.0,Male,Female,Asian,Hispanic or Latino,Ambidextrous
+25.0,86.0,293.0,3.0,15.0,2.0,14.0,80.0,68.0,270.0,149.0,53.0,Female,Male,Other,Not Hispanic or Latino,Left
+26.0,73.0,307.0,0.0,,18.0,12.0,55.0,83.0,,151.0,44.0,Female,Female,White,Not Hispanic or Latino,
+27.0,97.0,309.0,0.0,16.0,6.0,19.0,73.0,66.0,220.0,168.0,20.0,Female,Male,Black or African American,Hispanic or Latino,Ambidextrous
+28.0,80.0,,17.0,31.0,3.0,14.0,91.0,,,155.0,55.0,Male,Non-binary,,Not Hispanic or Latino,Left
+29.0,88.0,313.0,21.0,9.0,1.0,14.0,66.0,53.0,383.0,,33.0,Other,Non-binary,Other,Not Hispanic or Latino,Ambidextrous
+30,97.0,259.0,0.0,55.0,36.0,12.0,78.0,98.0,241.0,163.0,39.0,Other,Female,,Hispanic or Latino,Right
+31,87.0,296.0,12.0,,,,67.0,98.0,348.0,190.0,33.0,Male,Other,,,Right
+32.0,93.0,312.0,15.0,3.0,35.0,17.0,,54.0,267.0,147.0,45.0,Other,Non-binary,Other,Hispanic or Latino,Right
+33.0,87.0,262.0,10.0,58.0,2.0,10.0,96.0,59.0,282.0,133.0,,Female,Female,Black or African American,Not Hispanic or Latino,Left
+34.0,88.0,377.0,24.0,7.0,23.0,19.0,80.0,96.0,280.0,109.0,40.0,Other,Female,,Hispanic or Latino,Ambidextrous
+35.0,,327.0,25.0,58.0,20.0,17.0,52.0,80.0,219.0,122.0,53.0,,Male,Black or African American,Not Hispanic or Latino,Right
+36.0,71.0,325.0,1.0,53.0,,12.0,58.0,74.0,234.0,186.0,35.0,Female,Female,Other,Hispanic or Latino,Right
+37.0,,343.0,20.0,48.0,0.0,19.0,62.0,82.0,304.0,129.0,23.0,Other,Other,Other,Hispanic or Latino,Ambidextrous
+38.0,81.0,338.0,13.0,33.0,,16.0,50.0,74.0,245.0,139.0,43.0,Female,Female,Other,Not Hispanic or Latino,Right
+39.0,74.0,351.0,4.0,,33.0,14.0,74.0,88.0,281.0,125.0,58.0,Other,Other,Other,Hispanic or Latino,Left
+40.0,92.0,334.0,11.0,30.0,7.0,19.0,82.0,80.0,275.0,148.0,,Male,,Asian,Not Hispanic or Latino,Left
+41,88.0,304.0,0.0,12.0,41.0,15.0,67.0,53.0,333.0,117.0,53.0,Male,Other,,Hispanic or Latino,
+42.0,70.0,304.0,4.0,2.0,37.0,15.0,55.0,80.0,278.0,149.0,,Female,Female,Black or African American,Not Hispanic or Latino,Left
+43.0,82.0,290.0,,25.0,20.0,11.0,90.0,96.0,328.0,174.0,52.0,Male,Female,Black or African American,Not Hispanic or Latino,Right
+44.0,82.0,257.0,7.0,39.0,14.0,12.0,90.0,56.0,381.0,157.0,40.0,Other,Other,Black or African American,Hispanic or Latino,Right
+45.0,87.0,275.0,21.0,54.0,5.0,10.0,51.0,93.0,,120.0,,Other,Non-binary,Other,Not Hispanic or Latino,Left
+46.0,80.0,309.0,2.0,30.0,19.0,15.0,62.0,,343.0,198.0,21.0,Other,Other,Other,Not Hispanic or Latino,Right
+47.0,85.0,363.0,13.0,55.0,26.0,18.0,62.0,72.0,283.0,102.0,44.0,Female,,White,Not Hispanic or Latino,Ambidextrous
+48.0,,387.0,12.0,12.0,6.0,19.0,83.0,93.0,374.0,115.0,27.0,Male,,Other,,Left
+49,70.0,260.0,,31.0,23.0,19.0,54.0,80.0,249.0,160.0,18.0,Female,Non-binary,White,Not Hispanic or Latino,Right
+50.0,,398.0,16.0,,,19.0,62.0,64.0,364.0,109.0,53.0,Male,Male,Black or African American,Hispanic or Latino,Right
+51.0,76.0,378.0,,24.0,39.0,18.0,92.0,,347.0,,54.0,,Non-binary,Other,Hispanic or Latino,Ambidextrous
+52.0,88.0,306.0,14.0,47.0,19.0,16.0,85.0,,224.0,120.0,25.0,,,Black or African American,Hispanic or Latino,
+53.0,75.0,389.0,5.0,44.0,18.0,11.0,59.0,94.0,247.0,147.0,56.0,Male,Male,Asian,Hispanic or Latino,Left
+54.0,78.0,395.0,13.0,57.0,22.0,19.0,93.0,75.0,301.0,141.0,46.0,Female,,Other,Hispanic or Latino,Right
+55.0,96.0,387.0,,26.0,23.0,11.0,88.0,93.0,249.0,132.0,51.0,Female,Other,Black or African American,Hispanic or Latino,Right
+56.0,99.0,362.0,16.0,29.0,35.0,10.0,99.0,87.0,307.0,161.0,19.0,Male,,Other,,
+57.0,79.0,,,4.0,22.0,18.0,52.0,72.0,234.0,112.0,53.0,Female,Other,Asian,,Right
+58.0,90.0,298.0,22.0,16.0,41.0,,,60.0,370.0,,50.0,Other,,Black or African American,Hispanic or Latino,Right
+59.0,92.0,357.0,12.0,,37.0,14.0,86.0,66.0,274.0,193.0,36.0,Female,Male,Black or African American,Not Hispanic or Latino,Right
+60.0,76.0,352.0,1.0,10.0,39.0,18.0,87.0,57.0,204.0,,,Male,Other,Other,Hispanic or Latino,Right
+61.0,86.0,339.0,,27.0,35.0,13.0,,55.0,261.0,122.0,41.0,Other,,Other,,
+62.0,99.0,396.0,21.0,39.0,18.0,,82.0,,227.0,114.0,,Male,Female,,,Ambidextrous
+63,73.0,330.0,13.0,10.0,40.0,15.0,96.0,65.0,,162.0,22.0,Female,Other,Other,Hispanic or Latino,Left
+64.0,82.0,346.0,21.0,48.0,19.0,19.0,79.0,67.0,309.0,149.0,,Female,Other,Black or African American,,
+65.0,71.0,306.0,21.0,28.0,,14.0,73.0,84.0,363.0,194.0,37.0,Other,Non-binary,,Hispanic or Latino,Left
+66.0,,293.0,14.0,24.0,12.0,19.0,78.0,90.0,320.0,152.0,,Other,Other,,Not Hispanic or Latino,Left
+67,98.0,325.0,19.0,16.0,8.0,12.0,79.0,,213.0,153.0,22.0,Other,Female,Asian,Not Hispanic or Latino,Right
+68.0,87.0,379.0,17.0,,11.0,17.0,52.0,58.0,333.0,193.0,53.0,Female,Male,White,Hispanic or Latino,Left
+69,90.0,258.0,17.0,37.0,26.0,19.0,,81.0,361.0,196.0,23.0,Female,Female,White,Hispanic or Latino,Ambidextrous
+70.0,81.0,377.0,8.0,17.0,12.0,14.0,78.0,79.0,253.0,137.0,57.0,Other,Other,White,Not Hispanic or Latino,Ambidextrous
+71.0,85.0,338.0,6.0,53.0,,10.0,90.0,74.0,253.0,121.0,37.0,Other,Female,Other,Not Hispanic or Latino,Ambidextrous
+72.0,72.0,352.0,5.0,52.0,2.0,16.0,,63.0,297.0,196.0,53.0,Male,Female,White,Hispanic or Latino,Left
+73.0,72.0,355.0,5.0,26.0,4.0,17.0,97.0,51.0,308.0,146.0,29.0,Male,Female,Asian,Hispanic or Latino,Left
+74,80.0,,1.0,57.0,20.0,19.0,,79.0,281.0,132.0,39.0,Other,Other,Other,Not Hispanic or Latino,Right
+75.0,,394.0,3.0,36.0,33.0,13.0,64.0,93.0,375.0,152.0,25.0,,Female,Asian,Not Hispanic or Latino,Right
+76.0,88.0,313.0,,28.0,11.0,19.0,62.0,97.0,211.0,,54.0,Male,Non-binary,White,Not Hispanic or Latino,Left
+77.0,73.0,,11.0,36.0,25.0,13.0,72.0,98.0,302.0,154.0,42.0,Male,Female,Asian,Not Hispanic or Latino,Ambidextrous
+78.0,84.0,278.0,21.0,21.0,1.0,11.0,94.0,58.0,247.0,170.0,34.0,Male,Other,Black or African American,Not Hispanic or Latino,Left
+79.0,99.0,,10.0,57.0,36.0,16.0,77.0,,354.0,163.0,58.0,Female,Male,Asian,Hispanic or Latino,Ambidextrous
+80.0,83.0,363.0,19.0,30.0,1.0,14.0,77.0,92.0,,145.0,42.0,Male,Male,Asian,Hispanic or Latino,Ambidextrous
+81.0,82.0,327.0,12.0,11.0,12.0,10.0,54.0,98.0,222.0,119.0,53.0,Male,Non-binary,Asian,Hispanic or Latino,Ambidextrous
+82.0,71.0,310.0,3.0,7.0,25.0,16.0,87.0,94.0,388.0,139.0,21.0,,Female,White,Not Hispanic or Latino,Left
+83.0,97.0,260.0,8.0,25.0,,17.0,59.0,88.0,314.0,104.0,25.0,Other,Other,Asian,Not Hispanic or Latino,Left
+84.0,83.0,315.0,2.0,58.0,16.0,17.0,92.0,78.0,201.0,134.0,44.0,,Other,Asian,Hispanic or Latino,Right
+85.0,73.0,310.0,26.0,43.0,4.0,16.0,74.0,97.0,383.0,141.0,56.0,Male,Other,Other,Hispanic or Latino,Left
+86.0,92.0,319.0,25.0,8.0,24.0,,86.0,61.0,399.0,,55.0,Male,Male,Black or African American,Not Hispanic or Latino,Left
+87.0,96.0,376.0,1.0,49.0,10.0,18.0,,66.0,360.0,199.0,56.0,Other,Non-binary,Asian,Hispanic or Latino,Right
+88.0,76.0,,21.0,59.0,1.0,17.0,79.0,91.0,219.0,,33.0,Other,Female,Black or African American,Hispanic or Latino,Ambidextrous
+89.0,,,6.0,27.0,,18.0,66.0,70.0,287.0,144.0,36.0,Other,Female,Asian,Hispanic or Latino,Left
+90.0,92.0,284.0,17.0,48.0,16.0,19.0,78.0,68.0,296.0,124.0,30.0,Female,Female,White,Hispanic or Latino,Right
+91.0,72.0,270.0,18.0,40.0,32.0,,86.0,86.0,377.0,113.0,59.0,Female,Male,Asian,Not Hispanic or Latino,
+92.0,73.0,,25.0,,3.0,12.0,83.0,88.0,200.0,129.0,47.0,Female,Male,White,,Right
+93.0,,285.0,10.0,27.0,9.0,13.0,65.0,78.0,281.0,169.0,25.0,Male,Male,Black or African American,Not Hispanic or Latino,Right
+94.0,82.0,349.0,19.0,32.0,29.0,15.0,83.0,75.0,216.0,178.0,24.0,Male,Non-binary,Asian,Not Hispanic or Latino,Left
+95.0,74.0,321.0,,57.0,25.0,14.0,52.0,85.0,,118.0,48.0,Other,Female,Black or African American,Hispanic or Latino,Ambidextrous
+96,92.0,393.0,11.0,39.0,28.0,16.0,79.0,,359.0,148.0,59.0,Male,Non-binary,Other,Hispanic or Latino,Left
+97,84.0,355.0,8.0,3.0,30.0,13.0,95.0,71.0,,141.0,52.0,Male,Non-binary,White,Hispanic or Latino,Left
+98.0,87.0,262.0,,0.0,22.0,15.0,84.0,56.0,,154.0,25.0,Other,Female,,Not Hispanic or Latino,Ambidextrous
+99.0,93.0,261.0,26.0,21.0,30.0,15.0,76.0,59.0,213.0,163.0,,Female,Non-binary,Other,,Right
+100.0,90.0,356.0,22.0,55.0,29.0,,91.0,96.0,281.0,100.0,20.0,Female,Male,Asian,Hispanic or Latino,
